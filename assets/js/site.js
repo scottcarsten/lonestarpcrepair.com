@@ -44,7 +44,7 @@
           var mb = f.size / 1048576;
           if (mb > max) {
             file.value = '';
-            hint.textContent = 'That file is about ' + Math.ceil(mb) + ' MB, over the ' + max + ' MB limit. Please call 469-248-5463 and we will work out another way.';
+            hint.textContent = 'That file is about ' + Math.ceil(mb) + ' MB, over the ' + max + ' MB limit. Please call 817-242-4941 and we will work out another way.';
           } else {
             hint.textContent = 'Selected: ' + f.name + ' (' + (mb < 0.1 ? 'under 1' : mb.toFixed(1)) + ' MB)';
           }
@@ -65,7 +65,7 @@
               msg.textContent = 'Got it. A real person reads every message and will get back to you.';
             })
             .catch(function () {
-              msg.textContent = 'That did not go through. Please call 469-248-5463 and we will sort it out.';
+              msg.textContent = 'That did not go through. Please call 817-242-4941 and we will sort it out.';
             })
             .then(function () { send.disabled = false; });
         });

@@ -41,7 +41,7 @@ Every page says: files are handled privately and never shared, and all client da
 
 ## Rules for copy
 
-No prices, quotes only. Fort Worth area only, no street address. Only phone is 469-248-5463. No email address on the site. No em or en dashes, no parentheses in visible copy, no legacy desktop database brands we do not advertise, no certs we do not claim. Nothing auto replies to anyone.
+No prices, quotes only. Fort Worth area only, no street address. Only phone is 817-242-4941. No email address on the site. No em or en dashes, no parentheses in visible copy, no legacy desktop database brands we do not advertise, no certs we do not claim. Nothing auto replies to anyone.
 
 ## TODO
 
