@@ -70,6 +70,8 @@ section{padding:3rem 0}
 .hero-grid{display:grid;grid-template-columns:1.4fr 1fr;gap:2.5rem;align-items:center}
 .hero-grid img{border-radius:12px;box-shadow:0 6px 22px rgba(62,42,35,.3);width:100%;max-width:420px;margin:0 auto}
 .lead{font-size:1.2rem}
+.teaser{padding-top:0}
+.teaser-player{width:100%;max-width:100%;height:auto;aspect-ratio:16/9;display:block;background:var(--navy);border-radius:12px;border:1px solid var(--cream-3);box-shadow:0 6px 22px rgba(62,42,35,.18);object-fit:contain}
 .eyebrow{text-transform:uppercase;letter-spacing:.08em;font-size:.85rem;font-weight:700;color:var(--red);margin-bottom:.5rem}
 .band{background:var(--cream-2)}
 .band-navy{background:var(--navy);color:var(--cream)}
