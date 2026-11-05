@@ -22,6 +22,7 @@ excel-file-corrupted-cannot-be-opened/index.html landing page, Excel
 assets/css/site.css        all styles, palette in :root variables
 assets/js/site.js          hamburger menu and contact form handler
 assets/img/                logo-120/240 (header 1x/2x), logo-480/960 (hero), each .webp plus .jpg fallback
+assets/video/              home page teaser only: sticky-note-teaser.mp4 and sticky-note-teaser-poster.jpg
 og-image.jpg               1200x630 social image
 favicon.ico                16, 32, 48
 favicon-32x32.png, icon-192.png, icon-512.png, apple-touch-icon.png   cropped to face and star
@@ -46,7 +47,7 @@ No prices, quotes only. Fort Worth area only, no street address. Only phone is 8
 ## TODO
 
 - Contact form endpoint: `action="/api/contact"` is a stub. Add the Cloudflare endpoint. It must not send an auto reply. The honeypot field is `company_site`; reject any post where it is filled. File upload is not built yet.
-- Cloudflare response headers: add `Content-Security-Policy` with `frame-ancestors 'none'` (not valid in a meta tag), plus the same policy as the meta CSP, `X-Content-Type-Options: nosniff` and a referrer policy.
+- Cloudflare response headers: add `Content-Security-Policy` with `frame-ancestors 'none'` (not valid in a meta tag), plus the same policy as the meta CSP, `X-Content-Type-Options: nosniff` and a referrer policy. Still a separate task from the pages. The home page meta CSP now also sets `media-src 'self'` for the self-hosted teaser, so the header should include that directive when it is added.
 - Update `lastmod` in `sitemap.xml` when pages change.
 
 ## Delta 2026-11-04 (upload, area, scripts page)
