@@ -33,4 +33,4 @@ Search volume numbers were not available through the tools used. The choices res
 
 ## Maintenance
 
-Add new pages to `sitemap.xml`. Update `lastmod` when pages change. Cloudflare headers (frame-ancestors, nosniff) are still a separate task.
+Add new pages to `sitemap.xml`. Update `lastmod` when pages change.
