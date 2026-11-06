@@ -164,3 +164,6 @@ h2.sub{margin-top:2rem}
   body{padding-bottom:5.5rem}
 }
 @media (max-width:640px){.towns{columns:1}}
+.teaser{padding:0 0 2rem}
+.teaser-video{display:block;width:100%;max-width:820px;height:auto;aspect-ratio:16/9;margin:0 auto;border-radius:12px;background:var(--navy);box-shadow:0 6px 22px rgba(62,42,35,.3)}
+@media(max-width:640px){.teaser{padding:0 0 1.5rem}.teaser .wrap{padding:0}.teaser-video{border-radius:0}}
