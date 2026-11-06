@@ -6,7 +6,7 @@ Static site for Lone Star PC Repair, a local computer repair business in Granbur
 
 - No prices. Free quote.
 - Only phone: (817) 904-4877 (`tel:+18179044877`). Email: service@lonestarpcrepair.com.
-- No street address. Service area is local to Granbury and the limited surrounding area, with the town list. No Fort Worth, no Dallas.
+- No street address. Service area is local to Granbury and the limited surrounding area, with the town list.
 - Write for a visitor who has a problem and is searching for help. Do not describe where or how the work is physically done.
 - The call to action everywhere is: Call (817) 904-4877 for more information or to schedule an appointment.
 - Laptop screens only. No phone, iPhone, iPad or tablet screens.
