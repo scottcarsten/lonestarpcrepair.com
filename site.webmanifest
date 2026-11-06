@@ -1,7 +1,7 @@
 {
   "name": "Lone Star PC Repair",
   "short_name": "Lone Star PC",
-  "description": "Database rescue and small office scripts, Fort Worth area.",
+  "description": "Local computer repair with pickup and return near Granbury, TX.",
   "start_url": "/",
   "scope": "/",
   "display": "browser",
